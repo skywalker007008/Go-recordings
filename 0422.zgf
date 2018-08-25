@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<Game>
+    <Header>
+        <Application name="Zenith" version="7.0" />
+        <BoardSize value="19" />
+        <Handicap value="0" />
+        <Komi value="6.5" />
+        <WhitePlayer name="Zenith Go 6 dan" rank="6d" />
+        <BlackPlayer name="You" rank="" />
+        <MaxTime value="0" />
+        <Timer use="0" time="1800" byo="30" num="10" />
+        <Date value="2018-04-22" />
+        <Result value="W+1.5" />
+    </Header>
+    <Tree>
+        <Black move="R16" time="2" />
+        <White move="D16" time="5" eval="50" />
+        <Black move="Q3" time="7" />
+        <White move="D4" time="5" eval="52" />
+        <Black move="F3" time="4" />
+        <White move="C6" time="4" eval="51" />
+        <Black move="O17" time="5" />
+        <White move="Q5" time="7" eval="52" />
+        <Black move="R8" time="3" />
+        <White move="O4" time="9" eval="53" />
+        <Black move="P5" time="4" />
+        <White move="P4" time="2" eval="52" />
+        <Black move="Q4" time="1" />
+        <White move="Q6" time="6" eval="52" />
+        <Black move="O5" time="4" />
+        <White move="P2" time="5" eval="51" />
+        <Black move="S4" time="3" />
+        <White move="S5" time="7" eval="51" />
+        <Black move="Q2" time="3" />
+        <White move="N4" time="6" eval="52" />
+        <Black move="N5" time="5" />
+        <White move="M4" time="8" eval="48" />
+        <Black move="P7" time="5" />
+        <White move="S8" time="6" eval="48" />
+        <Black move="S7" time="12" />
+        <White move="R4" time="7" eval="50" />
+        <Black move="S3" time="3" />
+        <White move="Q7" time="8" eval="44" />
+        <Black move="Q8" time="2" />
+        <White move="P6" time="4" eval="42" />
+        <Black move="O7" time="3" />
+        <White move="O6" time="2" eval="41" />
+        <Black move="N6" time="1" />
+        <White move="N7" time="2" eval="40" />
+        <Black move="M6" time="1" />
+        <White move="N8" time="3" eval="39" />
+        <Black move="O9" time="6" />
+        <White move="N9" time="6" eval="38" />
+        <Black move="O10" time="2" />
+        <White move="L6" time="5" eval="47" />
+        <Black move="M7" time="3" />
+        <White move="L8" time="3" eval="50" />
+        <Black move="L5" time="2" />
+        <White move="K6" time="4" eval="50" />
+        <Black move="M5" time="3" />
+        <White move="K4" time="2" eval="52" />
+        <Black move="R5" time="8" />
+        <White move="K5" time="7" eval="45" />
+        <Black move="D3" time="10" />
+        <White move="C3" time="5" eval="40" />
+        <Black move="C2" time="4" />
+        <White move="E3" time="2" eval="39" />
+        <Black move="D2" time="2" />
+        <White move="E4" time="4" eval="39" />
+        <Black move="C4" time="1" />
+        <White move="B3" time="6" eval="43" />
+        <Black move="B4" time="3" />
+        <White move="B2" time="2" eval="45" />
+        <Black move="B1" time="3" />
+        <White move="E2" time="2" eval="44" />
+        <Black move="A3" time="2" />
+        <White move="R14" time="5" eval="45" />
+        <Black move="R12" time="6" />
+        <White move="R17" time="8" eval="46" />
+        <Black move="R15" time="7" />
+        <White move="Q17" time="5" eval="50" />
+        <Black move="P15" time="17" />
+        <White move="O18" time="4" eval="47" />
+        <Black move="P18" time="1" />
+        <White move="P17" time="5" eval="45" />
+        <Black move="N18" time="7" />
+        <White move="O16" time="2" eval="45" />
+        <Black move="N17" time="1" />
+        <White move="P16" time="7" eval="43" />
+        <Black move="Q14" time="2" />
+        <White move="O15" time="2" eval="43" />
+        <Black move="O14" time="6" />
+        <White move="N14" time="4" eval="53" />
+        <Black move="N13" time="1" />
+        <White move="O13" time="5" eval="54" />
+        <Black move="P14" time="2" />
+        <White move="M14" time="4" eval="54" />
+        <Black move="M13" time="4" />
+        <White move="L13" time="4" eval="57" />
+        <Black move="L14" time="6" />
+        <White move="M16" time="7" eval="54" />
+        <Black move="K17" time="11" />
+        <White move="K16" time="6" eval="52" />
+        <Black move="N15" time="10" />
+        <White move="M15" time="4" eval="55" />
+        <Black move="N16" time="1" />
+        <White move="L17" time="6" eval="57" />
+        <Black move="L18" time="7" />
+        <White move="K18" time="4" eval="61" />
+        <Black move="Q18" time="14" />
+        <White move="M18" time="7" eval="64" />
+        <Black move="O19" time="1" />
+        <White move="L12" time="4" eval="64" />
+        <Black move="O12" time="3" />
+        <White move="D11" time="6" eval="69" />
+        <Black move="C14" time="2" />
+        <White move="C16" time="7" eval="68" />
+        <Black move="E14" time="6" />
+        <White move="D13" time="4" eval="68" />
+        <Black move="D14" time="6" />
+        <White move="F15" time="6" eval="69" />
+        <Black move="B11" time="4" />
+        <White move="C11" time="5" eval="71" />
+        <Black move="B12" time="12" />
+        <White move="B10" time="7" eval="70" />
+        <Black move="F14" time="5" />
+        <White move="F12" time="7" eval="70" />
+        <Black move="G15" time="12" />
+        <White move="F16" time="3" eval="69" />
+        <Black move="G12" time="1" />
+        <White move="G11" time="4" eval="70" />
+        <Black move="H12" time="4" />
+        <White move="H14" time="7" eval="69" />
+        <Black move="G14" time="3" />
+        <White move="H11" time="7" eval="67" />
+        <Black move="J11" time="4" />
+        <White move="J12" time="5" eval="68" />
+        <Black move="J13" time="1" />
+        <White move="K12" time="2" eval="66" />
+        <Black move="J17" time="19" />
+        <White move="J16" time="5" eval="65" />
+        <Black move="B15" time="10" />
+        <White move="B16" time="4" eval="64" />
+        <Black move="H16" time="35" />
+        <White move="H17" time="5" eval="67" />
+        <Black move="J14" time="7" />
+        <White move="G16" time="8" eval="67" />
+        <Black move="H15" time="5" />
+        <White move="N12" time="5" eval="66" />
+        <Black move="P13" time="1" />
+        <White move="M12" time="3" eval="66" />
+        <Black move="B9" time="1" />
+        <White move="C9" time="5" eval="70" />
+        <Black move="A10" time="1" />
+        <White move="C10" time="2" eval="69" />
+        <Black move="N10" time="6" />
+        <White move="M10" time="5" eval="68" />
+        <Black move="A16" />
+        <White move="A17" time="4" eval="67" />
+        <Black move="A15" time="1" />
+        <White move="B17" time="4" eval="66" />
+        <Black move="O2" time="9" />
+        <White move="N2" time="5" eval="67" />
+        <Black move="C5" time="16" />
+        <White move="D6" time="4" eval="65" />
+        <Black move="B8" time="1" />
+        <White move="C8" time="5" eval="62" />
+        <Black move="B6" time="1" />
+        <White move="O1" time="5" eval="66" />
+        <Black move="N11" time="17" />
+        <White move="M11" time="5" eval="65" />
+        <Black move="Q1" time="7" />
+        <White move="R6" time="8" eval="70" />
+        <Black move="S6" time="1" />
+        <White move="L4" time="5" eval="69" />
+        <Black move="R7" time="1" />
+        <White move="L7" time="6" eval="69" />
+        <Black move="R5" time="1" />
+        <White move="C13" time="6" eval="69" />
+        <Black move="B13" time="11" />
+        <White move="D1" time="8" eval="70" />
+        <Black move="A2" time="1" />
+        <White move="L19" time="8" eval="76" />
+        <Black move="N19" time="3" />
+        <White move="B7" time="7" eval="72" />
+        <Black move="A7" time="3" />
+        <White move="C7" time="3" eval="72" />
+        <Black move="D5" time="1" />
+        <White move="E5" time="3" eval="72" />
+        <Black move="L15" time="4" />
+        <White move="L16" time="7" eval="72" />
+        <Black move="J15" time="2" />
+        <White move="O13" time="4" eval="73" />
+        <Black move="N13" time="4" />
+        <White move="F13" time="8" eval="78" />
+        <Black move="E13" time="1" />
+        <White move="E12" time="4" eval="76" />
+        <Black move="C12" time="1" />
+        <White move="D12" time="2" eval="75" />
+        <Black move="E15" time="1" />
+        <White move="E16" time="4" eval="78" />
+        <Black move="M8" time="1" />
+        <White move="M9" time="3" eval="79" />
+        <Black move="P3" />
+        <White move="O3" time="2" eval="78" />
+        <Black move="P1" time="2" />
+        <White move="O2" time="2" eval="78" />
+        <Black move="G13" time="3" />
+        <White move="O8" time="4" eval="78" />
+        <Black move="P8" />
+        <White move="M13" time="4" eval="78" />
+        <Black move="O13" time="2" />
+        <White move="K15" time="4" eval="78" />
+        <Black move="K14" />
+        <White move="C15" time="7" eval="78" />
+        <Black move="M19" time="2" />
+        <White move="M17" time="3" eval="78" />
+        <Black move="C1" time="2" />
+        <White move="E1" time="2" eval="78" />
+        <Black move="K13" />
+        <White move="D15" time="5" eval="82" />
+        <Black move="pass" time="4" />
+        <White move="pass" time="2" />
+    </Tree>
+</Game>
